@@ -1,5 +1,11 @@
 # Hi there, I'm Vedant Ghode 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="vedantghode32's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 ### 🚀 Aspiring Software Engineer | Java Backend Developer | Full-Stack Learner
 
 I'm an engineering student passionate about **software development, backend engineering, and building real-world applications**.
@@ -88,9 +94,3 @@ If you're also learning software development or working on interesting projects,
 
 ### 💡 "Learn. Build. Improve. Repeat."
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="vedantghode32's GitHub profile" src="dark_mode.svg" />
-</picture>
